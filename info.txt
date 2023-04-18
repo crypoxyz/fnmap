@@ -1,0 +1,27 @@
+16.384 px:
+    64 * 64
+    https://fortnite.gg/maps/24.10/6/(0-63)/(0-63).jpg
+
+8.192 px:
+    32 * 32
+    https://fortnite.gg/maps/24.10/5/(0-31)/(0-31).jpg
+
+4.096 px:
+    16 * 16
+    https://fortnite.gg/maps/24.10/4/(0-15)/(0-15).jpg
+
+2.048 px:
+    8 * 8
+    https://fortnite.gg/maps/24.10/3/(0-7)/(0-7).jpg
+
+1.024 px:
+    4 * 4
+    https://fortnite.gg/maps/24.10/2/(0-3)/(0-3).jpg
+
+512 px:
+    2 * 2
+    https://fortnite.gg/maps/24.10/1/(0-1)/(0-1).jpg
+
+256 px:
+    1 * 1
+    https://fortnite.gg/maps/24.10/0/0/0.jpg
